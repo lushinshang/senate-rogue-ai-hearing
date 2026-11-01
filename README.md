@@ -19,4 +19,10 @@
 - 重要來源：METR 與 OpenAI 事件報告（2026-08-26）、Dragos、CISA、Anthropic 報告，見主文來源清單
 
 ## 狀態
-僅本機完成，未發布。譯文頁與播放器是否公開由使用者決定。播放器只用假 YouTube 物件測過，真實嵌入未測。官方聽證頁與部分書面證詞無法開啟。
+2026-11-01 已發布：
+- 導讀：https://lushinshang.github.io/senate-rogue-ai-hearing/
+- 雙語字幕播放器：https://lushinshang.github.io/senate-rogue-ai-hearing/player.html
+- 全文譯本：https://lushinshang.github.io/senate-rogue-ai-hearing/translation-zh.html
+- repo：https://github.com/lushinshang/senate-rogue-ai-hearing
+
+說明：官方聽證頁與部分書面證詞當時無法開啟；播放器與譯文依 YouTube 機器字幕，未對照原音。原影片與聽證內容版權屬原權利人，權利人要求即下架。
